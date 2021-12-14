@@ -1,0 +1,138 @@
+// {
+//     "name" : "Habib",
+//     "Roll" :3.5,
+//     "location" : "uttora",
+//     "food" : ["alo","potol","lao"],
+//     "maried" : false
+
+// }
+{
+    "students" : [
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" : [
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+            
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" : [
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+            
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" : [
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+            
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" : [
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+            
+        }
+    ],
+    "stuf" :[
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" :[
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" :[
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" :[
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+        },
+        {
+            "name" : "Habib",
+            "roll" : 20,
+            "location" : "mirpur",
+            "age" : 10,
+            "marks" :[
+                {
+                    "bn" :70,
+                    "en" :49,
+                    "math" :70,
+                    "phy" :60,
+                    "che" :50
+                }
+            ]
+        }
+    ]
+}
